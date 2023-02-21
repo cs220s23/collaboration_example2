@@ -5,5 +5,5 @@ This repo is used to teach collaboration in a git repo.
 
 ## Names
 
--Orlando
--Carlton 
+-Orlando - OrlandoRodriguez11o9
+-Carlton - reyesc02
